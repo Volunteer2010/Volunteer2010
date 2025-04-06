@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🤝‍🧑       I like helping people <br>🚘       I love cars. I have a special interest <br>🎮🫅   I'm the Game King <br>🇹🇷       I am a Turkish person <br>🏳️‍🌈⃠
+🧑‍🤝‍🧑       I like helping people <br>🚘       I love cars. I have a special interest <br>🇹🇷       I am a Turkish person <br>🏳️‍🌈⃠
 
 
 # 💻 Tech Stack:
